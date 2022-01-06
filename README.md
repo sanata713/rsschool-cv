@@ -1,1 +1,2 @@
-# rsschool-cv
+- https://sanata713.github.io/rsschool-cv/
+- https://sanata713.github.io/rsschool-cv/cv
